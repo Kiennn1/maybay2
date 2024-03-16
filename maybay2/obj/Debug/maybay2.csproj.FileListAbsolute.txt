@@ -1,0 +1,11 @@
+C:\Users\sky\OneDrive\Tài liệu\C#\maybay2\maybay2\bin\Debug\maybay2.exe.config
+C:\Users\sky\OneDrive\Tài liệu\C#\maybay2\maybay2\bin\Debug\maybay2.exe
+C:\Users\sky\OneDrive\Tài liệu\C#\maybay2\maybay2\bin\Debug\maybay2.pdb
+C:\Users\sky\OneDrive\Tài liệu\C#\maybay2\maybay2\obj\Debug\maybay2.csproj.AssemblyReference.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\maybay2\maybay2\obj\Debug\maybay2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\maybay2\maybay2\obj\Debug\maybay2.Form1.resources
+C:\Users\sky\OneDrive\Tài liệu\C#\maybay2\maybay2\obj\Debug\maybay2.Properties.Resources.resources
+C:\Users\sky\OneDrive\Tài liệu\C#\maybay2\maybay2\obj\Debug\maybay2.csproj.GenerateResource.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\maybay2\maybay2\obj\Debug\maybay2.csproj.CoreCompileInputs.cache
+C:\Users\sky\OneDrive\Tài liệu\C#\maybay2\maybay2\obj\Debug\maybay2.exe
+C:\Users\sky\OneDrive\Tài liệu\C#\maybay2\maybay2\obj\Debug\maybay2.pdb
